@@ -6,8 +6,8 @@ A responsive and modern web application to help people find suitable roommates. 
 
 ## 🔗 Live Links
 
-🌐 **Client (Frontend)**: [https://your-client-live-link.com](https://your-client-live-link.com)  
-🛠️ **Server (Backend)**: [https://your-server-live-link.com](https://your-server-live-link.com)
+🌐 **Client (Frontend)**: [https://your-client-live-link.com](https://find.roommates.surge.sh)  
+🛠️ **Server (Backend)**: [https://your-server-live-link.com](https://roommate-server-side-nu.vercel.app)
 
 _(Replace with your actual deployment links)_
 
